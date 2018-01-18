@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Name Game</string>
+    <string name="new_game">New Game</string>
+    <string name="question">Which one of these people is %1$s?</string>
+    <string name="question_number">%1$d)</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="tap_next">Tap the next button to continue</string>
+    <string name="try_again">Please try again</string>
+    <string name="correct_answers">Correct:</string>
+    <string name="incorrect_answers">Incorrect:</string>
+    <string name="score">Score:</string>
+    <string name="percentage">%1$d%%</string>
+    <string name="retry">Retry</string>
+    <string name="employee_retrieval_error">Unable to retrieve employees. Please try again.</string>
+    <string name="insufficient_employee_count">Unable to start game. Insufficient employee count.</string>
+</resources>
