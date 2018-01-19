@@ -1,5 +1,5 @@
 # Name Game
-A multiple choice name game where you match employee pictures to names.
+A multiple choice name game where you match people's pictures to names.
 
 Utilizes the following libraries and technologies:
 
