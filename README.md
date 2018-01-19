@@ -18,3 +18,7 @@ Utilizes the following libraries and technologies:
 * Room Persistence Library
 
 * Dagger 2 Dependency Injection
+
+# Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/TwistedMetalGear/NameGame/master/screenshots/1.png)
