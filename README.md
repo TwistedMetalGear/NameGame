@@ -4,9 +4,7 @@ A multiple choice name game where you match pictures to names.
 Utilizes the following libraries and technologies:
 
 * Android Architecture Components
-  * ViewModel
-  * LiveData
-  
+
 * Android Data Binding Library
 
 * MVVM Architecture
