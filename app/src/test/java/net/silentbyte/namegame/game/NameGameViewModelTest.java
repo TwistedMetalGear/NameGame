@@ -8,7 +8,7 @@ import android.databinding.ObservableBoolean;
 import net.silentbyte.namegame.data.Employee;
 import net.silentbyte.namegame.data.NameGameRepository;
 import net.silentbyte.namegame.data.source.local.ProfileEntity;
-import net.silentbyte.namegame.util.TestHelper;
+import net.silentbyte.namegame.glide.TestHelper;
 
 import org.junit.Before;
 import org.junit.Rule;

@@ -1,4 +1,4 @@
-package net.silentbyte.namegame.util;
+package net.silentbyte.namegame.glide;
 
 import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.module.AppGlideModule;

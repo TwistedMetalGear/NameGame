@@ -10,7 +10,7 @@ import com.bumptech.glide.request.RequestOptions;
 
 import net.silentbyte.namegame.R;
 import net.silentbyte.namegame.data.source.local.ProfileEntity;
-import net.silentbyte.namegame.util.GlideApp;
+import net.silentbyte.namegame.glide.GlideApp;
 
 import java.util.List;
 
