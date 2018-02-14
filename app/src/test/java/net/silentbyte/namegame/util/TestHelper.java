@@ -1,4 +1,4 @@
-package net.silentbyte.namegame.glide;
+package net.silentbyte.namegame.util;
 
 import net.silentbyte.namegame.data.source.local.ProfileEntity;
 

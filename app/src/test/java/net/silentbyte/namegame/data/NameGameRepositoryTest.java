@@ -6,7 +6,7 @@ import net.silentbyte.namegame.data.source.local.ProfileEntity;
 import net.silentbyte.namegame.data.source.remote.Headshot;
 import net.silentbyte.namegame.data.source.remote.NameGameApi;
 import net.silentbyte.namegame.data.source.remote.Profile;
-import net.silentbyte.namegame.glide.TestHelper;
+import net.silentbyte.namegame.util.TestHelper;
 
 import org.junit.Before;
 import org.junit.Rule;
